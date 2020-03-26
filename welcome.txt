@@ -2,4 +2,4 @@ Hello Git!
 
 github commit
 
-external merge tool 사용
+external merge tool 사용 
